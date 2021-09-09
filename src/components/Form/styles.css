@@ -1,0 +1,17 @@
+.container-form {
+    margin-bottom: 40px;
+}
+
+.input {
+    font-size: 20px;
+    padding: 10px;
+    margin-right: 30px;
+}
+
+.btn-input {
+    font-size: 20px;
+    padding: 5px 20px;
+    background-color: #da33da;
+    color: #FFFF;
+    border-radius: 20px;
+}
